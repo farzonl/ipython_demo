@@ -1,0 +1,9 @@
+opencv-python==4.9.0.80
+pypandoc==1.13
+pandas==2.2.2
+plotly==5.22.0
+ipywidgets==8.1.2
+numpy
+notebook
+matplotlib==3.9.0
+scikit-learn==1.5.0
